@@ -1,23 +1,23 @@
 [
     {
         "imgSrc": "https://res.cloudinary.com/dtke9rvb6/image/upload/v1720162328/kovvur-icons/jobs-icons/Untitled_design_61__11zon_j7cy2x.jpg",
-        "title": "SSC MTS Recruitment 2024 | Latest Govt Jobs Bharath",
-        "description": "Only apply through the official SSC website",
-        "pdfLink": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/result%20write%20up-%20JSA%20LDC%202023-2024%20(2).pdf",
+        "title": "Railway RRB NTPC Recruitment 2024",
+        "description": "This recruitment drive is for various office-based and clerical positions in the Indian Railways",
+        "pdfLink": "https://drive.google.com/file/d/1AQu6HQjAoNXjaKT87kzl9qbGEFA-auA6/view?pli=1",
+        "applyLink": "https://rrbapply.gov.in/"
+    },
+    {
+        "imgSrc": "https://res.cloudinary.com/dtke9rvb6/image/upload/v1720162328/kovvur-icons/jobs-icons/Untitled_design_61__11zon_j7cy2x.jpg",
+        "title": "SSC Stenographer 2024",
+        "description": "Stenographer Grade C and D posts for the year 2024",
+        "pdfLink": "https://drive.google.com/file/d/1-qh34-MZAkXkTaIkk7hIiy_Am92DkHRF/view",
         "applyLink": "https://ssc.gov.in/"
     },
     {
         "imgSrc": "https://res.cloudinary.com/dtke9rvb6/image/upload/v1720162328/kovvur-icons/jobs-icons/Untitled_design_61__11zon_j7cy2x.jpg",
-        "title": "SSC CHSL Recruitment 2024 | Latest Govt Jobs 2024",
-        "description": "Apply through the SSC official website",
-        "pdfLink": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/result%20write%20up-%20JSA%20LDC%202023-2024%20(2).pdf",
-        "applyLink": "https://ssc.gov.in/"
-    },
-    {
-        "imgSrc": "https://res.cloudinary.com/dtke9rvb6/image/upload/v1720162328/kovvur-icons/jobs-icons/Untitled_design_61__11zon_j7cy2x.jpg",
-        "title": "SSC CHSL Recruitment 2024 | Latest Govt Jobs Jyothsna",
-        "description": "Apply through the SSC official vinay",
-        "pdfLink": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/result%20write%20up-%20JSA%20LDC%202023-2024%20(2).pdf",
-        "applyLink": "https://ssc.gov.in/"
+        "title": "ITBP Recruitment 2024 | 10th pass Constable jobs",
+        "description": "Positions: Head Constable (Dresser Veterinary),Constable (Animal Transport),Constable (Kennelman)",
+        "pdfLink": "https://drive.google.com/file/d/1SAhvYczENmYKJkieemQYTDRjoHfJwmfa/view",
+        "applyLink": "https://www.itbpolice.nic.in/"
     }
 ]
